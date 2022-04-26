@@ -2,7 +2,7 @@
   "name": "conecheroku",
   "version": "1.0.0",
   "description": "Aprendiendo a conectarme con heroku",
-  "main": "security.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
