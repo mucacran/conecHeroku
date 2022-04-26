@@ -1,0 +1,19 @@
+{
+  "name": "conecheroku",
+  "version": "1.0.0",
+  "description": "Aprendiendo a conectarme con heroku",
+  "main": "security.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucacran/conecHeroku.git"
+  },
+  "author": "Sergio Bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mucacran/conecHeroku/issues"
+  },
+  "homepage": "https://github.com/mucacran/conecHeroku#readme"
+}
