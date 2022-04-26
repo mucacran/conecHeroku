@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mucacran/conecHeroku/issues"
   },
-  "homepage": "https://github.com/mucacran/conecHeroku#readme"
+  "homepage": "https://github.com/mucacran/conecHeroku#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
